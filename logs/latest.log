@@ -1,0 +1,92 @@
+[20:53:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.5+9-LTS-239; Oracle Corporation null) on Windows 10 10.0 (amd64)
+[20:53:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-27-master@661839e (2024-11-11T19:22:47Z) for Minecraft 1.21.3
+[20:53:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:53:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[20:53:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:53:15] [ServerMain/INFO]: Loaded 1337 recipes
+[20:53:15] [ServerMain/INFO]: Loaded 1448 advancements
+[20:53:16] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:53:16] [Server thread/INFO]: Loading properties
+[20:53:16] [Server thread/INFO]: This server is running Paper version 1.21.3-27-master@661839e (2024-11-11T19:22:47Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[20:53:17] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:53:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:53:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:53:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseCommon] Paper is using 3 worker threads, 1 I/O threads
+[20:53:17] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:53:18] [Server thread/INFO]: Default game type: SURVIVAL
+[20:53:18] [Server thread/INFO]: Generating keypair
+[20:53:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:53:18] [Server thread/INFO]: Using default channel type
+[20:53:18] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[20:53:18] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[20:53:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:53:18] [Server thread/INFO]: Preparing level "world"
+[20:53:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:53:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:53:18] [Paper Common Worker #2/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[20:53:19] [Paper Common Worker #2/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 256,3ms
+[20:53:19] [Server thread/INFO]: Preparing spawn area: 12%
+[20:53:19] [Server thread/INFO]: Preparing spawn area: 57%
+[20:53:19] [Server thread/INFO]: Time elapsed: 1037 ms
+[20:53:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:53:19] [Server thread/INFO]: Preparing spawn area: 0%
+[20:53:19] [Server thread/INFO]: Time elapsed: 86 ms
+[20:53:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:53:19] [Server thread/INFO]: Preparing spawn area: 0%
+[20:53:19] [Server thread/INFO]: Time elapsed: 58 ms
+[20:53:19] [Server thread/INFO]: [spark] Starting background profiler...
+[20:53:19] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows10/amd64), so the built-in Java engine will be used instead.
+[20:53:19] [Server thread/INFO]: Done preparing level "world" (1.685s)
+[20:53:19] [Server thread/INFO]: Running delayed init tasks
+[20:53:19] [Server thread/INFO]: Done (11.132s)! For help, type "help"
+[20:54:03] [User Authenticator #0/INFO]: UUID of player cakeass is 3b1a7782-02fd-41bd-91ef-3f9222480182
+[20:54:04] [Server thread/INFO]: cakeass joined the game
+[20:54:04] [Server thread/INFO]: cakeass[/[0:0:0:0:0:0:0:1]:19504] logged in with entity id 23 at ([world]195.2946495478037, 119.0, 539.3365370528812)
+[20:54:30] [User Authenticator #0/INFO]: UUID of player Al3x545 is 9c104873-8f8b-469b-899e-7cc2506bc55b
+[20:54:31] [Server thread/INFO]: Al3x545 joined the game
+[20:54:31] [Server thread/INFO]: Al3x545[/[0:0:0:0:0:0:0:1]:19521] logged in with entity id 185 at ([world]217.84117574704476, 124.0, 529.4785968848801)
+[20:54:35] [Async Chat Thread - #1/INFO]: <Al3x545> LETS GOOOOOOOOOOO
+[21:08:35] [Server thread/INFO]: Villager Villager['Villager'/76, uuid='00e54b3b-469d-4693-9809-3b40ce762488', l='ServerLevel[world]', x=195.50, y=120.00, z=581.50, cpos=[12, 36], tl=186397, v=true] died, message: 'Villager was slain by Zombie'
+[21:08:48] [Server thread/INFO]: Al3x545 lost connection: Disconnected
+[21:08:48] [Server thread/INFO]: Al3x545 left the game
+[21:08:54] [User Authenticator #1/INFO]: UUID of player Al3x545 is 9c104873-8f8b-469b-899e-7cc2506bc55b
+[21:08:55] [Server thread/INFO]: Al3x545 joined the game
+[21:08:55] [Server thread/INFO]: Al3x545[/[0:0:0:0:0:0:0:1]:19736] logged in with entity id 1827 at ([world]209.30000001192093, 120.0, 529.3000000119209)
+[21:15:31] [Server thread/INFO]: Al3x545 has made the advancement [Isn't It Iron Pick]
+[21:20:36] [Server thread/INFO]: cakeass lost connection: Disconnected
+[21:20:36] [Server thread/INFO]: cakeass left the game
+[21:20:38] [Server thread/INFO]: Stopping the server
+[21:20:38] [Server thread/INFO]: Stopping server
+[21:20:38] [Server thread/INFO]: Saving players
+[21:20:38] [Server thread/INFO]: Al3x545 lost connection: Server closed
+[21:20:38] [Server thread/INFO]: Al3x545 left the game
+[21:20:38] [Server thread/INFO]: Saving worlds
+[21:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:20:38] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:20:38] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted chunk system for world 'world'
+[21:20:38] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saved 251 block chunks, 331 entity chunks, 0 poi chunks in world 'world' in 0,27s
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:20:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0,01s
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:20:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,03s
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:20:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:20:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:20:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:20:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:20:39] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[21:20:39] [Server thread/INFO]: All I/O tasks to complete
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:20:39] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
