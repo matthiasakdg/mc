@@ -1,0 +1,133 @@
+Locks:
+  FRLGXJIjv1bt:
+    public: false
+    allowed:
+    - anvrand
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 254
+      y: 120
+      z: 536
+  MCULJQqgyBMW:
+    public: false
+    allowed:
+    - anvrand
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 254
+      y: 120
+      z: 535
+  a7Lv9iPESEt0:
+    public: false
+    allowed:
+    - cakeass
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 198
+      y: 119
+      z: 541
+  r8UTggYS4beD:
+    public: false
+    allowed:
+    - cakeass
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 197
+      y: 119
+      z: 541
+  zyWuILECvHT4:
+    public: false
+    allowed:
+    - cakeass
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 189
+      y: 119
+      z: 541
+  WUSUjnxWfdNO:
+    public: false
+    allowed:
+    - cakeass
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 190
+      y: 119
+      z: 541
+  ADdgZsoHemRB:
+    public: false
+    allowed:
+    - cakeass
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 199
+      y: 119
+      z: 541
+  Zadx2TOsiNIh:
+    public: false
+    allowed:
+    - cakeass
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 200
+      y: 119
+      z: 541
+  kYquz7hlFXW8:
+    public: false
+    allowed:
+    - Al3x545
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 221
+      y: 124
+      z: 535
+  N1qk3SbZmXja:
+    public: false
+    allowed:
+    - Al3x545
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 221
+      y: 124
+      z: 534
+  vwvzeOBVbwuK:
+    public: false
+    allowed:
+    - anvrand
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 256
+      y: 121
+      z: 559
+  GcGXYRDsNRWL:
+    public: false
+    allowed:
+    - anvrand
+    type: CHEST
+    intrusionAlert: false
+    location:
+      world: world
+      x: 255
+      y: 121
+      z: 559
